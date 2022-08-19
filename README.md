@@ -21,7 +21,7 @@
 ## 页面结构
 
 ```
-|-react-kitchen 项目名
+|-react-recipe 项目名
     |-node_modules  依赖包
     |-public
     |-src
